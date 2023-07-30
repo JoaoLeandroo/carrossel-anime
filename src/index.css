@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  background-color: #6f00ff;
+
+  display: flex;
+  justify-content: center;
+}
